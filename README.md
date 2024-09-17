@@ -22,3 +22,25 @@
   Bitir
 
 
+# SORU 3
+  Başla
+    Kullanıcıdan bir sayı al (sayı)
+    
+    Eğer sayı <= 1 ise
+        "Sayı asal değildir" yazdır
+    Aksi halde
+        i = 2
+        asal = true
+        
+        Döngü başlat (i, 2'den sayının kareköküne kadar):
+            Eğer sayı % i == 0 ise
+                asal = false
+                Döngüden çık
+            i = i + 1
+        Döngü bitir
+        
+        Eğer asal == true ise
+            "Sayı asaldır" yazdır
+        Aksi halde
+            "Sayı asal değildir" yazdır
+  Bitir
