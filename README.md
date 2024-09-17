@@ -1,0 +1,1 @@
+# TurkStudentCo-AlgoritmalarMod-l-devi
