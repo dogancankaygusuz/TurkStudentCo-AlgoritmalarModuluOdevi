@@ -1,6 +1,7 @@
 # TurkStudentCo-AlgoritmalarModuluOdevi
 
 # Soru 1
+
   Başla
       İlk sayıyı kullanıcıdan al (a)
       İkinci sayıyı kullanıcıdan al (b)
@@ -9,6 +10,7 @@
   Bitir
 
 # SORU 2
+
   Başla
       toplam = 0
       a = 1
